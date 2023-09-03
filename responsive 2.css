@@ -1,0 +1,49 @@
+.col-md-2{
+	border:2px solid white;
+    padding:20px;
+    margin-top: 10px;
+}
+img[src="face profile 1.png"]{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+img[src="face profile 2.png"]{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+img[src="face profile 3.png"]{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+img[src="face profile 4.png"]{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+.a1{
+	position: relative;
+	left:100px;
+	bottom: 80px;
+}
+.a2{
+	position: relative;
+	left: 100px;
+	bottom: 90px;
+}
+.a3{
+	position: relative;
+	left: 100px;
+	bottom: 70px;
+}.a4{
+	position: relative;
+	left: 100px;
+	bottom: 100px;
+}
+.a5{
+	position: relative;
+	left: 340px;
+	bottom: 20px;
+}
